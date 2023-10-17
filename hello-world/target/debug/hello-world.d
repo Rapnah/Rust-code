@@ -1,0 +1,1 @@
+E:\CodeC-C++\Rust-Golang\Rust\Rust-code\hello-world\target\debug\hello-world.exe: E:\CodeC-C++\Rust-Golang\Rust\Rust-code\hello-world\src\ColorHex.rs E:\CodeC-C++\Rust-Golang\Rust\Rust-code\hello-world\src\MatrixTrans.rs E:\CodeC-C++\Rust-Golang\Rust\Rust-code\hello-world\src\main.rs
